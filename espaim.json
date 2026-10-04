@@ -1,0 +1,112 @@
+{ 
+"schemaVersion": 1, 
+"identifier": "hoangandev.esp.aim", 
+"name": "Sản Phẩm Của Vũ Hoàng An nhưng không bán", 
+"description": "Sản Phẩm Của Vũ Hoàng An nhưng không bán",
+"icon": "images/company.png", 
+"packages": [ 
+{ 
+"identifier": "FF-ESP", 
+"name": " FREE FIRE MENU", 
+"author": "Vũ Hoàng An", 
+"version": "1.0.0", 
+"summary": "ESP & AIM", 
+"description": "Bản Dành Cho Free Fire Thường", 
+"category": "Telegram: t.me/hoangancoder", 
+"tags": [ 
+"Telegram: t.me/hoangancoder"
+], 
+"icon": "images/company.png", 
+"screenshots": [ 
+"images/company.png"
+
+], 
+"download": "patch/FF.3105",
+"sha256": "6294D9B86B41FC62E16BE3D63B28C61A6E8CBF3B508D1F96A5BFBD7D1D074826", 
+"password": "hoangancoder",
+"size": 40437, 
+"supportedOS": [
+  {
+    "minimum": "17.0",
+    "maximum": "18.7.10"
+  },
+  {
+    "minimum": "26.0",
+    "maximum": "26.7"
+  },
+  {
+    "minimum": "27.0",
+    "maximum": "27.2",
+    "builds": [
+      "24A5355q",
+      "24A5370h",
+      "24A5380h",
+      "24A5390f",
+      "24A5408d",
+      "24A5418b",
+      "24A5424a",
+      "24A5430a",
+      "24A435",
+      "24A437",
+      "24B5084k",
+      "24B5089g"
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+{ 
+"identifier": "FF-ESPMAX", 
+"name": " FREE FIRE MAX MENU", 
+"author": "Vũ Hoàng An", 
+"version": "1.0.0", 
+"summary": "ESP & AIM", 
+"description": "Bản Dành Cho Free Fire Max", 
+"category": "Telegram: t.me/hoangancoder", 
+"tags": [ 
+"KÊNH TELE :t.me/hoangancoder"
+], 
+"icon": "images/company.png", 
+"screenshots": [ 
+"images/company.png"
+
+], 
+"download": "patch/Menu FFM.3105",
+"sha256": "7B326C26497F9E8CBF80C2758245340BA146B0F1088A0A4553A013B46FBAF277", 
+"password": "@hoangancoder",
+"size": 40398, 
+"supportedOS": [
+  {
+    "minimum": "17.0",
+    "maximum": "18.7.10"
+  },
+  {
+    "minimum": "26.0",
+    "maximum": "26.7"
+  },
+  {
+    "minimum": "27.0",
+    "maximum": "27.2",
+    "builds": [
+      "24A5355q",
+      "24A5370h",
+      "24A5380h",
+      "24A5390f",
+      "24A5408d",
+      "24A5418b",
+      "24A5424a",
+      "24A5430a",
+      "24A435",
+      "24A437",
+      "24B5084k",
+      "24B5089g"
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+}
+]
+}
